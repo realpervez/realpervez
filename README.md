@@ -16,9 +16,17 @@
 **Non-Technical Skills: Video Editing, Graphic Design.**
 
 ## Socials
-  <a href="https://www.linkedin.com/in/realpervez" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/realpervez" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=simpleicons-linkedin&logoColor=white" />
+</a>
  <a href="https://github.com/realpervez" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
- <a href="https://youtube.com/shorts/DhkDO4T1AqA?si=Va8oQPSmEG1l_24e" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+ <a href="https://discordapp.com/users/321892859190050816" target="_blank">
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+ <a href="https://monkeytype.com/profile/realpervez" target="_blank">
+  <img alt="Monkeytype" src="https://img.shields.io/badge/Monkeytype-%23F7DF1E.svg?&style=for-the-badge&logo=monkeytype&logoColor=black" />
+</a>
+<a href="https://youtube.com/shorts/DhkDO4T1AqA?si=Va8oQPSmEG1l_24e" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
  <!--<p>
   <a href="https://leetcode.com/realpervez/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>-->
 </p>
